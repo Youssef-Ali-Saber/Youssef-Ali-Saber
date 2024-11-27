@@ -18,9 +18,11 @@
 
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-ali-saber)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/Youssef-Ali-Saber)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:ya1654@fayoum.edu.eg)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yousef-ali-saber)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Youssef-Ali-Saber)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ya1654@fayoum.edu.eg)  
+[![Phone 1](https://img.shields.io/badge/-Phone%201-%23FF5733?logo=phone&logoColor=white&style=for-the-badge)](tel:+201121518045)  
+[![Phone 2](https://img.shields.io/badge/-Phone%202-%23FF5733?logo=phone&logoColor=white&style=for-the-badge)](tel:+201002835407)  
 
 ---
 
