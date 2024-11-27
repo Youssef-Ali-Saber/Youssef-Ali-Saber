@@ -16,6 +16,14 @@
 
 ---
 
+### 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-ali-saber)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/Youssef-Ali-Saber)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:ya1654@fayoum.edu.eg)  
+
+---
+
 ### 💼 Professional Experience
 
 **Backend Developer @ AlexApps** (July 2024 – Present)  
@@ -30,19 +38,43 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🖥️ Tech Stack:
 
 #### **Backend**
-- **Languages**: C#, C++, Bash, SQL, JavaScript.  
-- **Frameworks & Tools**: ASP.NET Core, ASP.NET MVC, ABP Framework, gRPC, GraphQL.  
-- **Databases**: SQL Server, SQLite, PostgreSQL, Redis.  
-- **Tools & Practices**: Clean Architecture, Onion Architecture, Repository Pattern, Identity & JWT Tokens, LINQ.  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-000000?logo=rest&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![SignalR](https://img.shields.io/badge/-SignalR-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![ABP Framework](https://img.shields.io/badge/-ABP%20Framework-512BD4?style=for-the-badge)
+![MVC](https://img.shields.io/badge/-MVC-512BD4?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-512BD4?style=for-the-badge)
+![N-Tier Architecture](https://img.shields.io/badge/-N--Tier%20Architecture-512BD4?style=for-the-badge)
+![Multi-Tenant Management](https://img.shields.io/badge/-Multi--Tenant%20Management-512BD4?style=for-the-badge)
+![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-512BD4?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-512BD4?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/-LINQ-239120?style=for-the-badge)
+![OOP](https://img.shields.io/badge/-OOP-239120?style=for-the-badge)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?style=for-the-badge)
 
 #### **Frontend**
-- HTML, CSS, JavaScript.  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 
 #### **DevOps**
-- Docker, Azure, GitHub Actions, CI/CD Pipelines.  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![Contabo](https://img.shields.io/badge/-Contabo-0078D4?logo=contabo&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
 ---
 
@@ -51,26 +83,3 @@
 ![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ali-Saber&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ali-Saber&layout=compact&theme=radical)  
 
----
-
-### 📌 Projects
-
-- **[Campus Pay (Graduation Project)](https://github.com/Youssef-Ali-Saber/CampusPay-Backend)**  
-  A mobile wallet app for students to simplify university payments.  
-  **Tech Used**: ASP.NET API 8, SignalR, Stripe, SQL Server, Clean Architecture.  
-
-- **[Educational Platform API](https://github.com/Youssef-Ali-Saber/Educational-Platform-API)**  
-  A feature-rich API for streamlining educational services with real-time chat and secure payments.  
-  **Tech Used**: Redis, SignalR, JWT Tokens, SQLite, Onion Architecture.  
-
-- **[E-Book Store](https://github.com/Youssef-Ali-Saber/E-Book-Store)**  
-  An e-commerce platform for digital books, focusing on scalability and robust user management.  
-  **Tech Used**: ASP.NET MVC, Stripe Integration, SQL Server, N-Tier Architecture.  
-
----
-
-### 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-ali-saber)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/Youssef-Ali-Saber)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:ya1654@fayoum.edu.eg)  
