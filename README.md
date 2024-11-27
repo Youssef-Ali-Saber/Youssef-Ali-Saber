@@ -18,11 +18,11 @@
 
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yousef-ali-saber)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Youssef-Ali-Saber)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ya1654@fayoum.edu.eg)  
-[![Phone 1](https://img.shields.io/badge/-Phone%201-%23FF5733?logo=phone&logoColor=white&style=for-the-badge)](tel:+201121518045)  
-[![Phone 2](https://img.shields.io/badge/-Phone%202-%23FF5733?logo=phone&logoColor=white&style=for-the-badge)](tel:+201002835407)  
+<a href="https://linkedin.com/in/yousef-ali-saber"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://github.com/Youssef-Ali-Saber"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
+<a href="mailto:ya1654@fayoum.edu.eg"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+<a href="tel:+201121518045"><img src="https://img.shields.io/badge/-Phone%201-%23FF5733?logo=phone&logoColor=white&style=for-the-badge" alt="Phone 1" /></a>
+<a href="tel:+201002835407"><img src="https://img.shields.io/badge/-Phone%202-%23FF5733?logo=phone&logoColor=white&style=for-the-badge" alt="Phone 2" /></a>
 
 ---
 
