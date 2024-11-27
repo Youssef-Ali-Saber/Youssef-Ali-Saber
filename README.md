@@ -21,8 +21,8 @@
 <a href="https://linkedin.com/in/yousef-ali-saber"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://github.com/Youssef-Ali-Saber"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
 <a href="mailto:ya1654@fayoum.edu.eg"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-<a href="tel:+201121518045"><img src="https://img.shields.io/badge/-Phone%201-%23FF5733?logo=phone&logoColor=white&style=for-the-badge" alt="tel:+201121518045" /></a>
-<a href="tel:+201002835407"><img src="https://img.shields.io/badge/-Phone%202-%23FF5733?logo=phone&logoColor=white&style=for-the-badge" alt="tel:+201002835407" /></a>
+<a href="tel:+201121518045"><img src="https://img.shields.io/badge/+201121518045%20-%23FF5733?logo=phone&logoColor=white&style=for-the-badge" alt="tel:+201121518045" /></a>
+<a href="tel:+201002835407"><img src="https://img.shields.io/badge/+201002835407%20-%23FF5733?logo=phone&logoColor=white&style=for-the-badge" alt="tel:+201002835407" /></a>
 
 ---
 
