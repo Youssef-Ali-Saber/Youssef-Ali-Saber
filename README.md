@@ -28,7 +28,7 @@
 
 ### 💼 Professional Experience
 
-**Backend Developer @ AlexApps** (July 2024 – Present)  
+**Software Engineer @ AlexApps** (July 2024 – Present)  
 - As a Software Engineer at AlexApps, I specialize in building diverse systems using .NET technologies. My expertise includes developing ERP web applications with Clean Architecture and the ABP Framework, creating robust Web APIs, designing dashboards and systems following the MVC pattern, and developing multi-tenant applications to cater to varied client needs.
 
 ---
