@@ -26,7 +26,7 @@
   <a href="tel:+201002835407"><img src="https://img.shields.io/badge/+201002835407%20-%23FF5733?logo=phoneNumber&logoColor=white&style=for-the-badge" alt="tel:+201002835407" /></a>
 </div>
 
-<img src="https://quotefancy.com/media/wallpaper/1600x900/6538130-Waseem-Latif-Quote-Think-twice-code-once.jpg" alt="Your Image" height="200" style="float:right; margin-left: 20px;"/>
+<img src="https://quotefancy.com/media/wallpaper/1600x900/6538130-Waseem-Latif-Quote-Think-twice-code-once.jpg" alt="Your Image" height="350" style="float:right; margin: 20px;"/>
 
 ---
 
