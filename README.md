@@ -3,9 +3,8 @@
 <img src="https://quotefancy.com/media/wallpaper/1600x900/6538130-Waseem-Latif-Quote-Think-twice-code-once.jpg" alt="Your Image" height="350" style="float:right; margin: 20px;"/>
 
 
-
-                                                          # 👋 Hi, I'm Yousef Ali!  
-                                          **Software Engineer | Problem Solver | Lifelong Learner**
+#                                                           👋 Hi, I'm Yousef Ali!  
+**                                            Software Engineer | Problem Solver | Lifelong Learner**
 ---
 
 ### 🌟 About Me
