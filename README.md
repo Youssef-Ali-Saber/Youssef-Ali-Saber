@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Yousef Ali!  
-**Software Engineer | Problem Solver | Lifelong Learner**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=7BCC67&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Software+Engineer;++++++Using;.Net+%26+Angular)](https://git.io/typing-svg)
 
+<img src="https://quotefancy.com/media/wallpaper/1600x900/6538130-Waseem-Latif-Quote-Think-twice-code-once.jpg" alt="Your Image" height="350" style="float:right; margin: 20px;"/>
+
+
+
+                                                          # 👋 Hi, I'm Yousef Ali!  
+                                          **Software Engineer | Problem Solver | Lifelong Learner**
 ---
 
 ### 🌟 About Me
@@ -26,9 +29,6 @@
 </div>
 
 ###
-
-<img src="https://quotefancy.com/media/wallpaper/1600x900/6538130-Waseem-Latif-Quote-Think-twice-code-once.jpg" alt="Your Image" height="350" style="float:right; margin: 20px;"/>
-
 ---
 
 ### 💼 Professional Experience
