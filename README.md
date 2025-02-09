@@ -1,7 +1,5 @@
 ###
 
-<img src="https://quotefancy.com/media/wallpaper/1600x900/6538130-Waseem-Latif-Quote-Think-twice-code-once.jpg" alt="Think-twice-code-once" height="350" style="float:right; margin: 20px;  margin-left: 200px;"/>
-
 ###
 ###                                                           👋 Hi, I'm Yousef Ali!  
 ####                                              Software Engineer | Problem Solver | Lifelong Learner
@@ -81,11 +79,3 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 ![Contabo](https://img.shields.io/badge/-Contabo-0078D4?logo=contabo&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-
----
-
-### 📈 GitHub Stats  
-
-![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ali-Saber&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ali-Saber&layout=compact&theme=radical)  
-
